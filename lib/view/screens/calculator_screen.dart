@@ -1,6 +1,6 @@
-import 'package:calculator/colors/app_color.dart';
-import 'package:calculator/widgets/calculator_button.dart';
-import 'package:calculator/widgets/calculator_button_contant.dart';
+import 'package:calculator/theme/app_theme.dart';
+import 'package:calculator/view/widgets/calculator_button.dart';
+import 'package:calculator/view/widgets/calculator_button_contant.dart';
 import 'package:flutter/material.dart';
 
 class CalculatorScreen extends StatefulWidget {

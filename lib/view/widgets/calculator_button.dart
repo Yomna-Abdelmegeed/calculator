@@ -1,4 +1,4 @@
-import 'package:calculator/colors/app_color.dart';
+import 'package:calculator/theme/app_theme.dart';
 import 'package:flutter/material.dart';
 
 class CalculatorButton extends StatelessWidget {
